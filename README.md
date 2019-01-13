@@ -12,10 +12,9 @@ The input file to populate the data is "input-data.csv"
 	
 When exiting program, records are written to "output-file.csv"
 	
-*NOTE: In class "FinalMain", lines 30 and 110 may need to change relative to where the
-	source data lies.
-	Additionally, line 180 in class "BinarySearchTree" and line 87 in class "LinkedList"
-	are the directories where the output file will be created.
+*NOTE: In class "FinalMain", lines 30 and 110 may need to change relative to where the source data lies.
+	Additionally, line 180 in class "BinarySearchTree" and line 87 in class "LinkedList" are the directories where the output file 		will be created.
+
 
 
 *************************Description*************************
