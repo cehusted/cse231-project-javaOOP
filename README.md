@@ -1,6 +1,6 @@
 # cse231-project-javaOOP
 
-*******************Informational & Notes***********************
+*******************Informational & Notes*******************
 
 During development of this program, I was using Java 8 Update 111 on my computer.
 
@@ -18,7 +18,7 @@ When exiting program, records are written to "output-file.csv"
 	are the directories where the output file will be created.
 
 
-*************************Description***************************
+*************************Description*************************
 
 This program was developed by me during the Winter 2017 term as a final project in CSE
 231 at Oakland University.
