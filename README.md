@@ -30,4 +30,4 @@ The user has the option of choosing which data structure is used to store the da
 * Hash Table	
 * Binary Search Tree
 
-__Note__: Implementing this project helped me find a bug in this version. Line 136 in 'BinarySearchTree.java' was required to be "else if" instead of just "if"
+__Note__: Implementing this project in Python helped me find a bug in this version. Line 136 in 'BinarySearchTree.java' was required to be "else if" instead of just "if"
