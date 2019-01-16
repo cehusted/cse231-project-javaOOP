@@ -133,8 +133,7 @@ public class BinarySearchTree{
 			PersonNode successor = successor(nptr);						//Retrieves the node's successor
 			if(nptr == root){											//If it's the root node
 				root = successor;										//Make its successor the root node
-			}
-			if(tracker == 1){											//If it's a leftchild....
+			} else if(tracker == 1){											//If it's a leftchild....
 				nptr_parent.leftChild = successor;						//DELETE
 			} else {													//If it's a rightchild....
 				nptr_parent.rightChild = successor;						//DELETE
